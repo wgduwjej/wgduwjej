@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wgduwjej
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Xloaderhell 
+- 👀 I’m interested in program
+- 🌱 I’m currently learning private
+- 💞️ I’m looking to collaborate on someone
+- 📫 How to reach me?
 
 <!---
 wgduwjej/wgduwjej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
